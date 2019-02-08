@@ -1,13 +1,16 @@
 ==========================
-hr567 Customized OSU! Skin
+hr567 Customized osu! Skin
 ==========================
 
 :Name: hr567Cust
-:Author: osuskinner.com / Various Artist / hr567
+:Author: Various Artist / osuskinner.com / hr567
 :Version: latest
+
+Most of the elements in this skin is collected from Internet
+and other skins.
 
 Suggestions
 ===========
 
 * Disable lighting
-* 75% cursor size
+* 50% cursor size
