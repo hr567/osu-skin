@@ -15,4 +15,3 @@ Suggestions
 ===========
 
 * Disable lighting
-* 50% cursor size
